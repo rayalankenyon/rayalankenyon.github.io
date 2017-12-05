@@ -13,6 +13,8 @@ github_username:  rayalankenyon
 minima:
   date_format: "%B %-d, %Y"
 
+disqus:
+    shortname: rayalankenyon
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
