@@ -5,7 +5,7 @@ date: 2017-12-05 05:25:53 -0500
 comments: true
 categories: ludum dare game jam
 ---
-Ludum Dare is a weekend game jam that runs every 4 months. On the weekend of
+&tbsp;Ludum Dare is a weekend game jam that runs every 4 months. On the weekend of
 December 1st, 2017 I particpiated in my first game jam. I would be lying if I
 did not say that I failed. A video of what I was able to create is posted below.
 # Inspiration
@@ -27,6 +27,7 @@ in game to debug unit movement.
 The biggest time sink of the project was art. I spent using circles to draw
 figures. I struggled to create anything that I liked. Finally, I settled on just
 using whatever assets I could get in the game as placeholder.
+<br>
 The code is not maintainable. Making a game in 48 hours is hard, and it
 would be difficult to make a complete, robust, engine. I should have stubbed
 out more of the features. This would make it easier to go back to the
