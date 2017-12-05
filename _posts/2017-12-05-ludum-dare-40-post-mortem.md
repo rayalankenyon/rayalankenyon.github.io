@@ -8,7 +8,7 @@ categories: ludum dare game jam
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ludum Dare is a weekend game jam that runs every 4 months. On the weekend of
 December 1st, 2017 I particpiated in my first game jam. I would be lying if I
 did not say that I failed. A video of what I was able to create is posted below.
-<iframe width="100%" src="https://www.youtube.com/embed/9NQXE-2cqSE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9NQXE-2cqSE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
 # Inspiration
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I woke up an hour after the jam started. I grabbed some food, excited to see the
 theme. My excited was swiftly removed from the sight of the theme "The more you
