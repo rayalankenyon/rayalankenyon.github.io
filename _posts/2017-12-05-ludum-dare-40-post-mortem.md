@@ -3,12 +3,11 @@ layout: post
 title: "Ludum Dare 40 Post Mortem"
 date: 2017-12-05
 comments: true
-categories: [ludum dare, game jam]
+categories: ludum dare game jam
 ---
     Ludum Dare is a weekend game jam that runs every 4 months. On the weekend of
 December 1st, 2017 I particpiated in my first game jam. I would be lying if I
 did not say that I failed. A video of what I was able to create is posted below.
---- INSERT VIDEO HERE ---
 # Inspiration
     I woke up an hour after the jam started. I grabbed some food, excited to see the
 theme. My excited was swiftly removed from the sight of the theme "The more you
