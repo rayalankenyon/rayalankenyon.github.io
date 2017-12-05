@@ -24,7 +24,7 @@ alignment. I thought this would be useful for debugging, but I only really text
 in game to debug unit movement.
 ![font rendering]({{ "/data/ld40/progress1.png" | absolute_url }})
 ![debugging movement]({{ "/data/ld40/ahhhhhhh_walkable_tiles.png" | absolute_url }})
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The biggest time sink of the project was art. I spent using circles to draw
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The biggest time sink of the project was art. I spent hours using circles to draw
 figures. I struggled to create anything that I liked. Finally, I settled on just
 using whatever assets I could get in the game as placeholder.
 <br>
@@ -34,7 +34,7 @@ out more of the features. This would make it easier to go back to the
 project later. As it stands I doubt I will understand the code a month from
 now without reading more than I should need to. 
 # Success?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've wanted to compete in Ludum Dare for years. This is the first time I
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have wanted to compete in Ludum Dare for years. This is the first time I
 have taken the time to actually make something. The jam was great fun, and I
 will definitely be competing in the next one. For now I am going to take a break
 and work on pracitcing some art. In a few weeks I will find another jam to
