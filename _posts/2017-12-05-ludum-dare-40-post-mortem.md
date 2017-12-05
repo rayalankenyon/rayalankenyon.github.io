@@ -5,7 +5,7 @@ date: 2017-12-05 05:25:53 -0500
 comments: true
 categories: ludum dare game jam
 ---
-&tbsp;Ludum Dare is a weekend game jam that runs every 4 months. On the weekend of
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ludum Dare is a weekend game jam that runs every 4 months. On the weekend of
 December 1st, 2017 I particpiated in my first game jam. I would be lying if I
 did not say that I failed. A video of what I was able to create is posted below.
 # Inspiration
@@ -23,7 +23,7 @@ of development I spent too much time trying to get simple font rendering with
 alignment. I thought this would be useful for debugging, but I only really text
 in game to debug unit movement.
 ![font rendering]({{ "/data/ld40/progress1.png" | absolute_url }})
-![debugging unit movement]({{ "/data/ld40/ahhhhhh_walkable_tiles.png" | absolute_url }})
+![debugging movement]({{ "/data/ld40/ahhhhhhh_walkable_tiles.png" | absolute_url }})
 The biggest time sink of the project was art. I spent using circles to draw
 figures. I struggled to create anything that I liked. Finally, I settled on just
 using whatever assets I could get in the game as placeholder.
