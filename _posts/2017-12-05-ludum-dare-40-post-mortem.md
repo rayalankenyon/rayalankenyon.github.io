@@ -23,7 +23,7 @@ of development I spent too much time trying to get simple font rendering with
 alignment. I thought this would be useful for debugging, but I only really text
 in game to debug unit movement.
 ![font rendering]({{ "/data/ld40/progress1.png" | absolute_url }})
-![debugging unit movement]({{ "data/ld40/ahhhhhh_walkable_tiles.png" | absolute_url }})
+![debugging unit movement]({{ "/data/ld40/ahhhhhh_walkable_tiles.png" | absolute_url }})
 The biggest time sink of the project was art. I spent using circles to draw
 figures. I struggled to create anything that I liked. Finally, I settled on just
 using whatever assets I could get in the game as placeholder.
@@ -42,21 +42,20 @@ participate in, and then another. More practice = More skill (hopefully).
 I love watching timelapses from Ludum Dare, but I did not record my
 development. I did take screenshots along the way. All pictures are posted
 below.
-![1]({{ "ahhhhhhh_walkable_tiles.png" | absolute_url }})
-![2]({{ "done_for_now.png" | absolute_url }})
-![3]({{ "draw_first_units.png" | absolute_url }})
-![4]({{ "drawing_random_map.png" | absolute_url }})
-![5]({{ "final_map_gen.png" | absolute_url }})
-![6]({{ "gameplay_kind_of.png" | absolute_url }})
-![7]({{ "male_female_character_rendered.png" | absolute_url }})
-![8]({{ "map_too_big.png" | absolute_url }})
-![9]({{ "moving_units.png" | absolute_url }})
-![10]({{ "not_so_random.png" | absolute_url }})
-![11]({{ "progress1.png" | absolute_url }})
-![12]({{ "random_map.png" | absolute_url }})
-![13]({{ "selecting_units.png" | absolute_url }})
-![14]({{ "splitting.png" | absolute_url }})
-![15]({{ "test.txt" | absolute_url }})
-![16]({{ "tons_of_units.png" | absolute_url }})
-![17]({{ "ui_idea.png" | absolute_url }})
-![18]({{ "you_can_eat.png" | absolute_url }})
+![1]({{ "/data/ld40/ahhhhhhh_walkable_tiles.png" | absolute_url }})
+![2]({{ "/data/ld40/done_for_now.png" | absolute_url }})
+![3]({{ "/data/ld40/draw_first_units.png" | absolute_url }})
+![4]({{ "/data/ld40/drawing_random_map.png" | absolute_url }})
+![5]({{ "/data/ld40/final_map_gen.png" | absolute_url }})
+![6]({{ "/data/ld40/gameplay_kind_of.png" | absolute_url }})
+![7]({{ "/data/ld40/male_female_character_rendered.png" | absolute_url }})
+![8]({{ "/data/ld40/map_too_big.png" | absolute_url }})
+![9]({{ "/data/ld40/moving_units.png" | absolute_url }})
+![10]({{ "/data/ld40/not_so_random.png" | absolute_url }})
+![11]({{ "/data/ld40/progress1.png" | absolute_url }})
+![12]({{ "/data/ld40/random_map.png" | absolute_url }})
+![13]({{ "/data/ld40/selecting_units.png" | absolute_url }})
+![14]({{ "/data/ld40/splitting.png" | absolute_url }})
+![16]({{ "/data/ld40/tons_of_units.png" | absolute_url }})
+![17]({{ "/data/ld40/ui_idea.png" | absolute_url }})
+![18]({{ "/data/ld40/you_can_eat.png" | absolute_url }})
