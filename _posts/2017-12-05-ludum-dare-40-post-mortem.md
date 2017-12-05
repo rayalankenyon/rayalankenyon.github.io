@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ludum Dare 40 Post Mortem"
-date: 2017-12-05
+date: 2017-12-05 05:25:53 -0500
 comments: true
 categories: ludum dare game jam
 ---
